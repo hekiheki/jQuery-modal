@@ -86,6 +86,7 @@
 ## 如何使用
 
 ``` javascript
+<link rel="stylesheet" href="modal.css">
 // 引入jquery文件
 <script src="jquery.min.js"></script>
 // 引入modal.js
