@@ -1,0 +1,47 @@
+@import "http://at.alicdn.com/t/font_583834_hwgo3u0mxzxs9k9.css";
+
+.modal{
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+.modal_icon{
+    font-size: 20px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+}
+.modal_title{
+    font-size: 18px;
+}
+.modal_content{
+    text-align: center;
+    padding: 20px 0;
+    font-size: 18px;
+}
+.modal_buttons{
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+    padding: 20px 0;
+}
+.modal_btn{
+    width: 80px;
+    height: 35px;
+    border: 1px solid #333;
+    border-radius: 2px;
+    font-size: 16px;
+    margin-left: 20px;
+    cursor: pointer;
+    outline: none;
+}
+#modal_onCancle{
+    background: #fff;
+    color: #333;
+}
+#modal_onOk{
+    background: #333;
+    color: #fff;
+}
